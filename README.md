@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Blaže Banjanski, I’m @BaKiForHire
 - 👀 I’m interested in App & Web Development
 - 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on Angular/Ionic/Kotlin Development Projects
+- 💞️ I’m looking to collaborate on AI Development Projects
 - 📫 How to reach me blaze.banjanski@bakiforhire.com
 - 🌐 bakiforhire.com
